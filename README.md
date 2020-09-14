@@ -1,4 +1,4 @@
-<a target="_blank" href="https://itkhansunny.me/"><img width="500" align="right" src="assets/main.jpg"></a>
+<a target="_blank" href="https://itkhansunny.me/"><img width="500" align="right" src="https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/assets/main.jpg"></a>
 
 ## 👋 &nbsp; Hey there! I'm Khan Sunny
 
@@ -25,7 +25,7 @@ My name is Khan Sunny. I am a PHP Developer. I work with PHP base Framework and 
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 
-<img alt="Night Coding" src="assets/night-coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/assets/night-coding.gif" align="right"/>
 
 ##### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
