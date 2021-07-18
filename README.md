@@ -4,7 +4,12 @@
 
 ### About Me
 
-My name is Khan Sunny. I am a PHP Developer. I work with PHP base Framework and CMS. I have 8+ years’ experience in Web development with WordPress. I am a professional and specializing in WordPress Website Development & Designing. I have been working with codeigniter for several years. I am working with Laravel anew
+I'm a big fan of the PHP programming language.
+At the end of 2012, I started writing codes in PHP. From 2013, I started working on Wordpress Theme and Plugins customization as well as building Full Websites with Wordpress.
+My experience includes developing, managing and executing maintenance projects using PHP raw coding and also with PHP Codeigniter.
+At present, I am working successfully in Fiverr and Upwork.
+I am working on Wordpress Theme Development, Wordpress Plugins Development and Codeigniter or Laravel Application Development.
+Recently I started doing a little work on DevOps with Docker
 <br/>
 <br/>
 <br/>
