@@ -14,3 +14,5 @@ jobs:
         with:
           WAKATIME_API_KEY: 8e28ae63-80aa-4742-9429-908e8ff4f11e
           GH_TOKEN: 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
+          SHOW_LINES_OF_CODE: "True"
+
