@@ -83,6 +83,10 @@ Recently I started doing a little work on DevOps with Docker
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align="center">
     <a href="mailto:it.khansunny@gmail.com"><img src="https://img.shields.io/badge/-it.khansunny@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=red"/></a>
     <a href="https://www.itkhansunny.me"><img src="https://img.shields.io/badge/Web%20Site-itkhansunny.me-blue?style=flat-square"/></a>
@@ -94,6 +98,3 @@ Recently I started doing a little work on DevOps with Docker
     <a href="https://linkedin.com/in/itkhansunny"><img src="https://img.shields.io/badge/-Khan Sunny-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/-Khan Sunny-0077B5?style=flat-square&logo=stackoverflow"/></a>
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
