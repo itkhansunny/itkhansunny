@@ -77,7 +77,7 @@ Recently I started doing a little work on DevOps with Docker
     <a href="https://github.com/itkhansunny">
     <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itkhansunny&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
     <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itkhansunny" />
-     <img src = "https://github-readme-streak-stats.herokuapp.com?user=itkhansunny&hide_border=true" width = 400>
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=itkhansunny&hide_border=true" width=400>
     </a>
 </p>
 
