@@ -84,7 +84,7 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866678%20lines%20of%20code-blue)
 
@@ -129,19 +129,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        ████████████████████░░░░░   81.72% 
-PHP                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           1 hr 30 mins        ████████████████████░░░░░   81.72% 
-VS Code                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.28%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 50 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               1 hr 30 mins        ████████████████████░░░░░   81.72% 
-Windows                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.28%
+No Activity Tracked This Week
 
 ```
 
@@ -162,7 +159,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2021
+ Last Updated on 16/09/2021
 <!--END_SECTION:waka-->
 
 
