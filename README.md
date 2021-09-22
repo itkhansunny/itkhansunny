@@ -84,7 +84,7 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -129,19 +129,20 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.0% 
+Other                    2 hrs               ████████████████████████░   98.17% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83% 
 PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Unknown Editor           2 hrs               █████████████████████████   100.0% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Unknown Editor           2 hrs               ████████████████████████░   98.17% 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs               █████████████████████████   100.0%
+Unknown Project          2 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               2 hrs               █████████████████████████   100.0% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Unknown OS               2 hrs               ████████████████████████░   98.17% 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 ```
 
@@ -162,7 +163,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 
