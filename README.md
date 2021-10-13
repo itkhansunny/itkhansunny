@@ -129,8 +129,7 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      1 hr 37 mins        █████████████████████████   100.0% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+PHP                      1 hr 37 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  1 hr 37 mins        █████████████████████████   100.0%
@@ -161,7 +160,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/10/2021
+ Last Updated on 13/10/2021
 <!--END_SECTION:waka-->
 
 
