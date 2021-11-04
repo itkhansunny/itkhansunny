@@ -129,16 +129,18 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           55 mins             ████████████░░░░░░░░░░░░░   49.89% 
+PHP                      54 mins             ████████████░░░░░░░░░░░░░   49.03% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 51 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+larastarter              1 hr 51 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 51 mins        █████████████████████████   100.0%
 
 ```
 
@@ -158,7 +160,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2021
+ Last Updated on 04/11/2021
 <!--END_SECTION:waka-->
 
 
