@@ -84,7 +84,7 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -129,18 +129,18 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           55 mins             ████████████░░░░░░░░░░░░░   49.89% 
-PHP                      54 mins             ████████████░░░░░░░░░░░░░   49.03% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
+Blade Template           1 hr 3 mins         █████████████░░░░░░░░░░░░   53.11% 
+PHP                      54 mins             ███████████░░░░░░░░░░░░░░   45.88% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.0%
+VS Code                  1 hr 59 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-larastarter              1 hr 51 mins        █████████████████████████   100.0%
+larastarter              1 hr 59 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.0%
+Windows                  1 hr 59 mins        █████████████████████████   100.0%
 
 ```
 
@@ -160,7 +160,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2021
+ Last Updated on 05/11/2021
 <!--END_SECTION:waka-->
 
 
