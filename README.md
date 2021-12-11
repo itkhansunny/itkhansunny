@@ -92,7 +92,7 @@ Recently I started doing a little work on DevOps with Docker
 
 > 🏆 54 Contributions in the Year 2021
  > 
-> 📦 82.3 kB Used in GitHub's Storage 
+> 📦 82.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -163,7 +163,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/12/2021
+ Last Updated on 11/12/2021
 <!--END_SECTION:waka-->
 
 
