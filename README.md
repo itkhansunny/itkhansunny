@@ -129,20 +129,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   99.83% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Liquid                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           1 hr                █████████████████████████   99.83% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               1 hr                █████████████████████████   99.83% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 ```
 
@@ -162,7 +158,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/12/2021
+ Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
 
 
