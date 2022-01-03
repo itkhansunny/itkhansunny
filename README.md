@@ -84,7 +84,7 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -92,7 +92,7 @@ Recently I started doing a little work on DevOps with Docker
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 82.4 kB Used in GitHub's Storage 
+> 📦 81.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,16 +129,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.0%
+Other                    2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  2 hrs               █████████████████████████   100.0%
+Word                     2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-gmail-email              2 hrs               █████████████████████████   100.0%
+Unknown Project          2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.0%
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -158,7 +158,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 
 
