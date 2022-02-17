@@ -92,7 +92,7 @@ Recently I started doing a little work on DevOps with Docker
 
 > 🏆 8 Contributions in the Year 2022
  > 
-> 📦 82.3 kB Used in GitHub's Storage 
+> 📦 82.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,21 +129,16 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     37 mins             ██████████░░░░░░░░░░░░░░░   43.12% 
-JavaScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.66% 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        ███████████████████████░░   94.12% 
-Word                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 27 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -163,7 +158,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2022 00:32:48 UTC
+ Last Updated on 17/02/2022 00:30:45 UTC
 <!--END_SECTION:waka-->
 
 
