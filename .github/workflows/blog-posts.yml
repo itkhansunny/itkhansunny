@@ -16,6 +16,6 @@ jobs:
           tag_post_pre_newline: true
           readme_path: "README.md"
           badge_style: flat
-          badge_label: "technical blog 📝"
+          badge_label: "📝 My Blog Articles"
           badge_message_suffix: "articles"
           badge_message_bg_color: "#abcbca"
