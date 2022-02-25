@@ -1,0 +1,2 @@
+name: Article Count Workflow
+  uses: lyqht/article-badge-counter-workflow@v1.0.1
