@@ -161,7 +161,7 @@ JavaScript               2 repos             ███░░░░░░░░�
  Last Updated on 25/02/2022 00:37:54 UTC
  
 <!--END_SECTION:waka-->
-<!-- ARTICLE_BADGE:START --><a href="https://esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=2 articles&url=https://esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
+<!-- ARTICLE_BADGE:START --><a href="https://it.khansunny.com" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=📝 My Blog Articles&up_message=2 articles&url=https://it.khansunny.com&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
 
 <!-- BLOG-POST-LIST:START -->
 - [সম্পূর্ণ ফ্রিতে তিন মাসের জন্য নিয়ে নিন Laynda এর সকল কোর্স](https://it.khansunny.com/2018/06/laynda-free-3-month.html)
