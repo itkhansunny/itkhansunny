@@ -163,8 +163,8 @@ JavaScript               2 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 <!-- ARTICLE_BADGE:START --><a href="https://esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=2 articles&url=https://esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
 
-<!-- DOUBAN-ACTIVITIES:START -->
-<!-- DOUBAN-ACTIVITIES:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
     <a href="mailto:it.khansunny@gmail.com"><img src="https://img.shields.io/badge/-it.khansunny@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=red"/></a>
