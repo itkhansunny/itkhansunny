@@ -164,10 +164,8 @@ JavaScript               2 repos             ███░░░░░░░░�
 <!-- ARTICLE_BADGE:START --><a href="https://esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=2 articles&url=https://esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [সম্পূর্ণ ফ্রিতে তিন মাসের জন্য নিয়ে নিন Laynda এর সকল কোর্স](https://it.khansunny.com/2018/06/laynda-free-3-month.html)
+- [হ্যালো !!! দুনিয়া](https://it.khansunny.com/2016/01/blog-post_13.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
