@@ -160,7 +160,8 @@ JavaScript               2 repos             ███░░░░░░░░�
 
  Last Updated on 25/02/2022 00:37:54 UTC
 <!--END_SECTION:waka-->
-
+<!-- ARTICLE_BADGE:START -->
+<!-- ARTICLE_BADGE:END -->
 
 <p align="center">
     <a href="mailto:it.khansunny@gmail.com"><img src="https://img.shields.io/badge/-it.khansunny@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=red"/></a>
