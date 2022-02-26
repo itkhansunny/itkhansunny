@@ -15,3 +15,8 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://it.khansunny.com/atom.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/3370951"
