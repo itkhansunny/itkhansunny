@@ -84,41 +84,43 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%2012%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-171-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 9 Contributions in the Year 2022
+> 🏆 35 Contributions in the Year 2022
  > 
 > 📦 86.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    19 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌆 Daytime    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
-🌃 Evening    34 commits     ███████████░░░░░░░░░░░░░░   44.74% 
-🌙 Night      16 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05%
+🌞 Morning    19 commits     1111222222222222222222222   19.39% 
+🌆 Daytime    17 commits     1111222222222222222222222   17.35% 
+🌃 Evening    34 commits     1111111122222222222222222   34.69% 
+🌙 Night      28 commits     1111111222222222222222222   28.57%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       26 commits     ████████░░░░░░░░░░░░░░░░░   34.21% 
-Tuesday      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
-Wednesday    16 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Friday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Saturday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
-Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Monday       26 commits     1111112222222222222222222   26.53% 
+Tuesday      7 commits      1222222222222222222222222   7.14% 
+Wednesday    16 commits     1111222222222222222222222   16.33% 
+Thursday     8 commits      1122222222222222222222222   8.16% 
+Friday       8 commits      1122222222222222222222222   8.16% 
+Saturday     29 commits     1111111222222222222222222   29.59% 
+Sunday       4 commits      1222222222222222222222222   4.08%
 
 ```
 
@@ -145,21 +147,17 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+PHP                      6 repos             1111111112222222222222222   37.5% 
+HTML                     5 repos             1111111222222222222222222   31.25% 
+CSS                      2 repos             1112222222222222222222222   12.5% 
+JavaScript               2 repos             1112222222222222222222222   12.5% 
+Python                   1 repo              1222222222222222222222222   6.25%
 
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
-
-
- Last Updated on 25/02/2022 00:37:54 UTC
- 
+ Last Updated on 26/02/2022 09:36:04 UTC
 <!--END_SECTION:waka-->
 
 
