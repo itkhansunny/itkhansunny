@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: lyqht/article-badge-counter-workflow@main
         with:
-          feed_list: "https://it.khansunny.com/rss.xml"
-          redirect_link: "https://it.khansunny.com"
+          feed_list: "https://www.itkhansunny.xyz/rss.xml"
+          redirect_link: "https://www.itkhansunny.xyz"
           tag_post_pre_newline: true
           readme_path: "README.md"
           badge_style: flat
