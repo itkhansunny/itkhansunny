@@ -174,9 +174,9 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!-- ARTICLE_BADGE:START --><a href="https://it.khansunny.com" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=📝 My Blog Articles&up_message=3 articles&url=https://it.khansunny.com&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Configure Vscode by Python Script](https://it.khansunny.com/2022/02/automatically configure vscode by python script.html)
-- [সম্পূর্ণ ফ্রিতে তিন মাসের জন্য নিয়ে নিন Laynda এর সকল কোর্স](https://it.khansunny.com/2018/06/laynda-free-3-month.html)
-- [হ্যালো !!! দুনিয়া](https://it.khansunny.com/2016/01/blog-post_13.html)
+- [Automatically Configure Vscode by Python Script](https://www.itkhansunny.xyz/2022/02/automatically configure vscode by python script.html)
+- [সম্পূর্ণ ফ্রিতে তিন মাসের জন্য নিয়ে নিন Laynda এর সকল কোর্স](https://www.itkhansunny.xyz/2018/06/laynda-free-3-month.html)
+- [হ্যালো !!! দুনিয়া](https://www.itkhansunny.xyz/2016/01/blog-post_13.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
