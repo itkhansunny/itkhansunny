@@ -173,7 +173,7 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!-- STACKOVERFLOW:END -->
 
 
-<!-- ARTICLE_BADGE:START --><a href="https://www.itkhansunny.xyz" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=📝 My Blog Articles&up_message=3 articles&url=https://www.itkhansunny.xyz&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
+<!-- ARTICLE_BADGE:START --><a href="https://itkhansunny.blogspot.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=📝 My Blog Articles&up_message=3 articles&url=https://itkhansunny.blogspot.com/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
 
 <!-- BLOG-POST-LIST:START -->
 - [Automatically Configure Vscode by Python Script](https://www.itkhansunny.xyz/2022/02/automatically configure vscode by python script.html)
