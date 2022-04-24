@@ -166,6 +166,7 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Khan Sunny for How to align an image dead center with bootstrap](https://stackoverflow.com/questions/10879955/how-to-align-an-image-dead-center-with-bootstrap/71991065#71991065)
 - [Answer by Khan Sunny for Github-hosted website looks different than when I locally download it](https://stackoverflow.com/questions/52013399/github-hosted-website-looks-different-than-when-i-locally-download-it/52013423#52013423)
 - [Codeigniter application update like wordpress](https://stackoverflow.com/questions/52012154/codeigniter-application-update-like-wordpress)
 - [Can you change this code into jquery? [closed]](https://stackoverflow.com/questions/49709811/can-you-change-this-code-into-jquery)
