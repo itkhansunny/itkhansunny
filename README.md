@@ -84,6 +84,8 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lines%20of%20code-blue)
@@ -129,17 +131,16 @@ Sunday       0 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-CSS                      31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-athleta                  30 mins             █████████████████████████   99.75% 
-Unknown Project          0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   0.25%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -156,7 +157,7 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 
- Last Updated on 07/05/2022 00:43:20 UTC
+ Last Updated on 08/05/2022 00:44:01 UTC
 <!--END_SECTION:waka-->
 
 
