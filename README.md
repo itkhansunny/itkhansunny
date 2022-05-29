@@ -131,16 +131,16 @@ Sunday       0 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Text                     19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -157,7 +157,7 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 
- Last Updated on 28/05/2022 00:47:49 UTC
+ Last Updated on 29/05/2022 00:51:02 UTC
 <!--END_SECTION:waka-->
 
 
