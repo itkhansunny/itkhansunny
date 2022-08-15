@@ -84,7 +84,7 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C924%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,7 +94,7 @@ Recently I started doing a little work on DevOps with Docker
 
 > 🏆 11 Contributions in the Year 2022
  > 
-> 📦 74.2 kB Used in GitHub's Storage 
+> 📦 74.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -131,19 +131,17 @@ Sunday       0 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Text                     3 hrs 55 mins       ████████████████⣿⣿⣿⣿⣿⣿⣿⣿⣿   66.6% 
-Other                    1 hr 58 mins        ████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   33.4%
+Text                     4 hrs 53 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 55 mins       ████████████████⣿⣿⣿⣿⣿⣿⣿⣿⣿   66.6% 
-Google Calendar          1 hr 58 mins        ████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   33.4%
+VS Code                  4 hrs 53 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 55 mins       █████████████████████████   100.0%
+Unknown Project          2 hrs               █████████████████⣿⣿⣿⣿⣿⣿⣿⣿   68.23% 
+itkhansunny              55 mins             ████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   31.77%
 
 💻 Operating System: 
-Windows                  3 hrs 55 mins       ████████████████⣿⣿⣿⣿⣿⣿⣿⣿⣿   66.6% 
-Unknown OS               1 hr 58 mins        ████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   33.4%
+Windows                  4 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
@@ -160,7 +158,7 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 
- Last Updated on 14/08/2022 00:54:52 UTC
+ Last Updated on 15/08/2022 00:52:38 UTC
 <!--END_SECTION:waka-->
 
 
