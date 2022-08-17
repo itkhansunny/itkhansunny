@@ -91,13 +91,13 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C784%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 17 Contributions in the Year 2022
+> 🏆 19 Contributions in the Year 2022
  > 
 > 📦 74.1 kB Used in GitHub's Storage 
  > 
@@ -110,21 +110,21 @@ Recently I started doing a little work on DevOps with Docker
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    7 commits      ████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   35.0% 
+🌞 Morning    7 commits      ████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   33.33% 
 🌆 Daytime    0 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   0.0% 
-🌃 Evening    5 commits      ██████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   25.0% 
-🌙 Night      8 commits      ██████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   40.0%
+🌃 Evening    5 commits      ██████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   23.81% 
+🌙 Night      9 commits      ██████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   42.86%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       0 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   0.0% 
-Tuesday      4 commits      █████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   20.0% 
-Wednesday    10 commits     ████████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   50.0% 
-Thursday     4 commits      █████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   20.0% 
-Friday       1 commits      █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   5.0% 
-Saturday     1 commits      █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   5.0% 
+Tuesday      4 commits      ████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   19.05% 
+Wednesday    10 commits     ████████████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   47.62% 
+Thursday     5 commits      ██████⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   23.81% 
+Friday       1 commits      █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   4.76% 
+Saturday     1 commits      █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   4.76% 
 Sunday       0 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   0.0%
 
 ```
@@ -164,12 +164,8 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/charts/bar_graph.png) 
-
-
- Last Updated on 17/08/2022 19:32:53 UTC
+ Last Updated on 17/08/2022 19:36:56 UTC
 <!--END_SECTION:waka-->
 
 
