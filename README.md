@@ -73,7 +73,7 @@ Recently I started doing a little work on DevOps with Docker
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhansunny&theme=github_dark
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkhansunny&theme=github_dark)
 
 <p align="center">
     <a href="https://github.com/itkhansunny">
