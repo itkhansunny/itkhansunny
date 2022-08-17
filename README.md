@@ -91,7 +91,7 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,13 +99,13 @@ Recently I started doing a little work on DevOps with Docker
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2022
+> 🏆 17 Contributions in the Year 2022
  > 
 > 📦 74.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -138,17 +138,19 @@ Sunday       0 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Text                     6 hrs 37 mins       █████████████████████████   100.0%
+Text                     6 hrs 43 mins       ████████████████████████⣿   98.61% 
+C                        4 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   1.21% 
+Other                    0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   0.18%
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 48 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 9 mins        █████████████████████⣿⣿⣿⣿   86.83% 
-itkhansunny              55 mins             ███⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   13.17%
+Unknown Project          6 hrs 20 mins       █████████████████████⣿⣿⣿⣿   87.18% 
+itkhansunny              55 mins             ███⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   12.82%
 
 💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.0%
+Windows                  6 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 
@@ -165,7 +167,7 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 
- Last Updated on 17/08/2022 00:57:58 UTC
+ Last Updated on 17/08/2022 19:26:07 UTC
 <!--END_SECTION:waka-->
 
 
