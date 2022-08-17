@@ -81,6 +81,8 @@ Recently I started doing a little work on DevOps with Docker
     </a>
 </p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=itkhansunny&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
