@@ -182,6 +182,7 @@ Python                   1 repo              █⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!-- ARTICLE_BADGE:START --><a href="https://itkhansunny.blogspot.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=📝 My Blog Articles&up_message=4 articles&url=https://itkhansunny.blogspot.com/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
 
 <!-- BLOG-POST-LIST:START -->
+- [৫ টি প্রজেক্ট আইডিয়া: বিগিনার পিএইচপি ডেভলাপারদের জন্য](https://blog.khansunny.com/2022/11/5 project idea for beginner php developer.html)
 - [Automatically Configure Vscode by Python Script](https://blog.khansunny.com/2022/02/automatically configure vscode by python script.html)
 - [সম্পূর্ণ ফ্রিতে তিন মাসের জন্য নিয়ে নিন Laynda এর সকল কোর্স](https://blog.khansunny.com/2018/06/laynda-free-3-month.html)
 - [হ্যালো !!! দুনিয়া](https://blog.khansunny.com/2016/01/blog-post_13.html)
