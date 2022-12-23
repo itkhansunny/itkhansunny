@@ -86,7 +86,7 @@ Recently I started doing a little work on DevOps with Docker
 <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=itkhansunny&hide_progress=false&layout=compact&custom_title=Wakatime%20Stats"
             alt="itkhansunny's wakatime stats">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=itkhansunny&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=itkhansunny&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
