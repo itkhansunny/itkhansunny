@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE : "en"
           SHOW_UPDATED_DATE : "True"
-          UPDATED_DATE_FORMAT : "TZ='Asia/Dhaka' %d/%m/%Y %H:%M:%S"
+          UPDATED_DATE_FORMAT : "%d/%m/%Y %H:%M:%S"
           SHOW_LINES_OF_CODE : "True"
           SHOW_TOTAL_CODE_TIME : "True"
           SHOW_PROFILE_VIEWS : "False"
