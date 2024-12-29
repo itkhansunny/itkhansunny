@@ -19,7 +19,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           GH_TOKEN:  ${{ github.token }}
-          TABLE_STYLE: 'table'
+          TABLE_STYLE: 'box'
           MAX_LANGUAGES: '7'
           WAKATIME_TIME_RANGE: 'last_7_days'
           
