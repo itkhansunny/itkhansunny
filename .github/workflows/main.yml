@@ -15,5 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MSG: "Automated Coding Activity Update :alien: - $(TZ='Asia/Dhaka' date +'%d-%m-%Y %I:%M %p')"
           STATS_RANGE: "last_7_days"
