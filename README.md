@@ -14,7 +14,7 @@ Recently I started doing a little work on DevOps with Docker
 <br/>
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itkhansunny" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itkhansunny" alt="" /> [![wakatime](https://wakatime.com/badge/user/dde32dd2-3479-4635-b597-3a71aa894897.svg)](https://wakatime.com/@dde32dd2-3479-4635-b597-3a71aa894897) </p>
 
 #### 💻 &nbsp; Currently i am working with Laravel with React and Docker
 
