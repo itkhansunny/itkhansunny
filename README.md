@@ -97,7 +97,9 @@ Recently I started doing a little work on DevOps with Docker
 
 **🐱 My GitHub Data** 
 
-> 📦 23.7 kB Used in GitHub's Storage 
+> 📦 23.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -164,7 +166,7 @@ CSS                      2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 18:26:07 UTC
+ Last Updated on 26/01/2025 18:26:27 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (wakatime-stats)
