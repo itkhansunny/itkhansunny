@@ -97,7 +97,7 @@ Recently I started doing a little work on DevOps with Docker
 
 **🐱 My GitHub Data** 
 
-> 📦 23.8 kB Used in GitHub's Storage 
+> 📦 23.9 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2025
  > 
@@ -134,16 +134,18 @@ Sunday                   31 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.74 % 
+Markdown                 1 min               ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.25 % 
+Other                    0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +165,7 @@ CSS                      2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2025 18:30:19 UTC
+ Last Updated on 18/03/2025 18:32:45 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (wakatime-stats)
