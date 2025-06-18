@@ -91,13 +91,13 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C474%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C474%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 27.4 kB Used in GitHub's Storage 
+> 📦 27.5 kB Used in GitHub's Storage 
  > 
 > 🏆 24 Contributions in the Year 2025
  > 
@@ -171,7 +171,7 @@ TypeScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 18:35:35 UTC
+ Last Updated on 18/06/2025 18:35:23 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (wakatime-stats)
