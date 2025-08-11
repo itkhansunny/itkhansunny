@@ -97,13 +97,13 @@ Recently I started doing a little work on DevOps with Docker
 
 **🐱 My GitHub Data** 
 
-> 📦 31.3 kB Used in GitHub's Storage 
+> 📦 31.4 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -163,7 +163,7 @@ TypeScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2025 18:34:33 UTC
+ Last Updated on 11/08/2025 18:39:16 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (wakatime-stats)
