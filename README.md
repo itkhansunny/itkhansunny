@@ -183,33 +183,35 @@ PHP                      8 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ TypeScript                │         2 hrs 29 mins          ║
-║ YAML                      │          1 hr 45 mins          ║
-║ CSS                       │          1 hr 32 mins          ║
-║ PHP                       │          1 hr 23 mins          ║
-║ Blade Template            │              1 hr              ║
-║ JavaScript                │            52 mins             ║
-║ Markdown                  │            40 mins             ║
+║ TypeScript                │         3 hrs 58 mins          ║
+║ JavaScript                │          1 hr 56 mins          ║
+║ CSS                       │          1 hr 48 mins          ║
+║ YAML                      │          1 hr 46 mins          ║
+║ PHP                       │          1 hr 20 mins          ║
+║ Markdown                  │          1 hr 3 mins           ║
+║ JSON                      │            56 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ VS Code                   │         6 hrs 52 mins          ║
-║ Antigravity IDE           │         3 hrs 58 mins          ║
-║ Claude Code               │             0 secs             ║
+║ VS Code                   │         8 hrs 25 mins          ║
+║ Antigravity IDE           │         6 hrs 45 mins          ║
+║ Claude Code               │             1 min              ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │         10 hrs 52 mins         ║
+║ Windows                   │         15 hrs 12 mins         ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
