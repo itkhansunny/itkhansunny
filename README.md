@@ -209,20 +209,20 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         15 hrs 30 mins         ║
-║ CSS                       │         8 hrs 38 mins          ║
+║ PHP                       │         16 hrs 27 mins         ║
+║ CSS                       │             9 hrs              ║
 ║ JavaScript                │         2 hrs 21 mins          ║
-║ HTML                      │          1 hr 40 mins          ║
-║ Markdown                  │          1 hr 16 mins          ║
-║ Other                     │            54 mins             ║
-║ Bash                      │            41 mins             ║
+║ Other                     │          1 hr 7 mins           ║
+║ Markdown                  │          1 hr 5 mins           ║
+║ Bash                      │            40 mins             ║
+║ Blade Template            │            34 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │          26 hrs 1 min          ║
+║ Antigravity IDE           │         26 hrs 11 mins         ║
 ║ VS Code                   │         5 hrs 47 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -230,11 +230,13 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │         31 hrs 49 mins         ║
+║ Windows                   │         31 hrs 59 mins         ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
