@@ -210,11 +210,11 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Blade Template            │         3 hrs 56 mins          ║
-║ PHP                       │         2 hrs 12 mins          ║
-║ Markdown                  │            50 mins             ║
+║ PHP                       │          1 hr 40 mins          ║
 ║ TypeScript                │            24 mins             ║
-║ CSS                       │            20 mins             ║
+║ Markdown                  │            21 mins             ║
 ║ JSON                      │            19 mins             ║
+║ CSS                       │            18 mins             ║
 ║ Other                     │             2 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -222,8 +222,8 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │         7 hrs 32 mins          ║
-║ VS Code                   │            38 mins             ║
+║ Antigravity IDE           │          7 hrs 5 mins          ║
+║ VS Code                   │             2 mins             ║
 ║ Claude Code               │             0 secs             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -231,11 +231,13 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │         8 hrs 11 mins          ║
+║ Windows                   │          7 hrs 8 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
