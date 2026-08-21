@@ -208,9 +208,9 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╠═══════════════════════════╪════════════════════════════════╣
 ║ Blade Template            │         3 hrs 56 mins          ║
 ║ PHP                       │          1 hr 40 mins          ║
-║ TypeScript                │            24 mins             ║
-║ Markdown                  │            21 mins             ║
-║ JSON                      │            19 mins             ║
+║ TypeScript                │            27 mins             ║
+║ Markdown                  │            20 mins             ║
+║ JSON                      │            20 mins             ║
 ║ CSS                       │            18 mins             ║
 ║ Other                     │             2 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
@@ -219,20 +219,20 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │          7 hrs 5 mins          ║
-║ VS Code                   │             2 mins             ║
-║ Claude Code               │             0 secs             ║
+║ Antigravity IDE           │          7 hrs 9 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │          7 hrs 8 mins          ║
+║ Windows                   │          7 hrs 9 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
