@@ -208,20 +208,20 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ PHP                       │         3 hrs 18 mins          ║
+║ PHP                       │         3 hrs 53 mins          ║
 ║ TypeScript                │         2 hrs 28 mins          ║
 ║ Markdown                  │          1 hr 6 mins           ║
 ║ Bash                      │          1 hr 3 mins           ║
-║ JSON                      │            47 mins             ║
-║ JavaScript                │            32 mins             ║
-║ Text                      │            24 mins             ║
+║ JSON                      │          1 hr 2 mins           ║
+║ JavaScript                │            34 mins             ║
+║ Blade Template            │            28 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │         10 hrs 24 mins         ║
+║ Antigravity IDE           │         11 hrs 40 mins         ║
 ║ VS Code                   │             5 mins             ║
 ║ Antigravity Desktop       │             3 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
@@ -230,11 +230,13 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │         10 hrs 33 mins         ║
+║ Windows                   │         11 hrs 49 mins         ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
