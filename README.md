@@ -206,20 +206,20 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ JavaScript                │         2 hrs 57 mins          ║
-║ JSON                      │          1 hr 59 mins          ║
+║ JavaScript                │          3 hrs 4 mins          ║
+║ TypeScript                │         2 hrs 51 mins          ║
+║ JSON                      │         2 hrs 47 mins          ║
+║ Text                      │          1 hr 33 mins          ║
+║ Markdown                  │          1 hr 29 mins          ║
 ║ PHP                       │          1 hr 9 mins           ║
-║ Markdown                  │          1 hr 6 mins           ║
-║ TypeScript                │          1 hr 2 mins           ║
 ║ Python                    │              1 hr              ║
-║ Text                      │            30 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │         11 hrs 11 mins         ║
+║ Antigravity IDE           │         16 hrs 19 mins         ║
 ║ VS Code                   │             3 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -227,11 +227,13 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │         11 hrs 14 mins         ║
+║ Windows                   │         16 hrs 22 mins         ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
