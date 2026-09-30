@@ -205,12 +205,12 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Text                      │         2 hrs 42 mins          ║
-║ HTML                      │            49 mins             ║
+║ Text                      │          2 hrs 5 mins          ║
+║ HTML                      │            56 mins             ║
 ║ CSS                       │            41 mins             ║
-║ JavaScript                │            22 mins             ║
-║ Markdown                  │            17 mins             ║
-║ Python                    │             7 mins             ║
+║ JavaScript                │            25 mins             ║
+║ Python                    │            23 mins             ║
+║ PowerShell                │            11 mins             ║
 ║ XML                       │             5 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -218,18 +218,20 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │          5 hrs 7 mins          ║
+║ Antigravity IDE           │         4 hrs 53 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │          5 hrs 7 mins          ║
+║ Windows                   │         4 hrs 53 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
