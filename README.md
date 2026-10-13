@@ -91,15 +91,15 @@ Recently I started doing a little work on DevOps with Docker
 ### 🤝🏻 &nbsp;Connect with Me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C808%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C812%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 476.6 kB Used in GitHub's Storage 
+> 📦 476.7 kB Used in GitHub's Storage 
  > 
 > 🏆 797 Contributions in the Year 2026
  > 
@@ -136,46 +136,46 @@ Sunday                   149 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           3 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.23 % 
-Markdown                 2 hrs 14 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.24 % 
-PHP                      1 hr 54 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.83 % 
-Python                   1 hr 41 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.32 % 
-Image (png)              1 hr 14 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.98 % 
+Blade Template           3 hrs 20 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.94 % 
+Text                     3 hrs 12 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.14 % 
+Markdown                 2 hrs 44 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.39 % 
+PHP                      1 hr 54 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.38 % 
+Python                   1 hr 32 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.20 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Antigravity IDE          16 hrs 42 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-bounty os                5 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.21 % 
-track-loan               2 hrs 45 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.01 % 
-domains-scan             2 hrs 7 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.47 % 
-tld-websites             56 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.81 % 
-Unknown Project          52 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.42 % 
+bounty os                4 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.67 % 
+email reports - send     2 hrs 56 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.57 % 
+track-loan               2 hrs 45 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.47 % 
+domains-scan             2 hrs 7 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.73 % 
+tld-websites             56 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.60 % 
 
 💻 Operating System: 
-Windows                  13 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  16 hrs 42 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 20 mins (96.94%)
+⏱ AI Coding Time: 15 hrs 13 mins (91.05%)
 
-✍️ 55,381 lines written by AI, 13 lines written by hand (99.98% AI-written)
+✍️ 55,405 lines written by AI, 28 lines written by hand (99.95% AI-written)
 
-🔤 20,276,207 Input Tokens, 1,922,169 Output Tokens
+🔤 20,345,106 Input Tokens, 1,978,301 Output Tokens
 
-💵 $55.80 Estimated AI Cost This Week
+💵 $61.72 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 87 AI Prompts
+🧠 28 AI Sessions, 118 AI Prompts
 
-Gemini                   55,804 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Gemini                   55,832 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 288 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📝 Concise Prompter — average 269 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -195,7 +195,7 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/itkhansunny/itkhansunny/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 21:44:31 UTC
+ Last Updated on 13/10/2026 00:27:55 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (wakatime-stats)
