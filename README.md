@@ -208,13 +208,13 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Markdown                  │         5 hrs 21 mins          ║
-║ Text                      │         4 hrs 33 mins          ║
-║ Python                    │          1 hr 55 mins          ║
-║ HTML                      │          1 hr 51 mins          ║
-║ JavaScript                │          1 hr 21 mins          ║
-║ Blade Template            │            55 mins             ║
-║ YAML                      │            48 mins             ║
+║ Markdown                  │         5 hrs 39 mins          ║
+║ Text                      │         4 hrs 34 mins          ║
+║ Python                    │          1 hr 57 mins          ║
+║ HTML                      │          1 hr 44 mins          ║
+║ JavaScript                │          1 hr 7 mins           ║
+║ YAML                      │            51 mins             ║
+║ Other                     │            42 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
@@ -235,6 +235,8 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
