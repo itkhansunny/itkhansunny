@@ -207,20 +207,20 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Text                      │         3 hrs 12 mins          ║
-║ TypeScript                │          3 hrs 1 min           ║
-║ Markdown                  │             2 hrs              ║
-║ JavaScript                │          1 hr 15 mins          ║
-║ JSON                      │          1 hr 13 mins          ║
-║ Other                     │            46 mins             ║
-║ HTML                      │            45 mins             ║
+║ TypeScript                │         2 hrs 24 mins          ║
+║ JavaScript                │          1 hr 47 mins          ║
+║ Markdown                  │          1 hr 12 mins          ║
+║ JSON                      │          1 hr 3 mins           ║
+║ HTML                      │            47 mins             ║
+║ Other                     │            44 mins             ║
+║ YAML                      │            36 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │         14 hrs 25 mins         ║
+║ Antigravity IDE           │         10 hrs 50 mins         ║
 ║ Codex Vscode              │            13 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
@@ -228,11 +228,13 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │         14 hrs 39 mins         ║
+║ Windows                   │         11 hrs 4 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
