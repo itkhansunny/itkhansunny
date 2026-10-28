@@ -207,32 +207,35 @@ PHP                      9 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ╔═══════ Last 7 Days Stats for Programming Languages ════════╗
 ║ Programming Languages     │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ TypeScript                │         2 hrs 24 mins          ║
-║ JavaScript                │          1 hr 47 mins          ║
+║ JavaScript                │          1 hr 57 mins          ║
 ║ Markdown                  │          1 hr 12 mins          ║
-║ JSON                      │          1 hr 3 mins           ║
+║ TypeScript                │          1 hr 9 mins           ║
+║ JSON                      │            55 mins             ║
 ║ HTML                      │            47 mins             ║
-║ Other                     │            44 mins             ║
-║ YAML                      │            36 mins             ║
+║ Other                     │            45 mins             ║
+║ Text                      │            40 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔══════════════ Last 7 Days Stats for Editors ═══════════════╗
 ║ Editors                   │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Antigravity IDE           │         10 hrs 50 mins         ║
+║ Antigravity IDE           │         9 hrs 24 mins          ║
 ║ Codex Vscode              │            13 mins             ║
+║ Antigravity Desktop       │            12 mins             ║
 ╚═══════════════════════════╧════════════════════════════════╝
 
 
 ╔═════════ Last 7 Days Stats for Operating Systems ══════════╗
 ║ Operating Systems         │ Total Hours                    ║
 ╠═══════════════════════════╪════════════════════════════════╣
-║ Windows                   │         11 hrs 4 mins          ║
+║ Windows                   │         9 hrs 50 mins          ║
 ╚═══════════════════════════╧════════════════════════════════╝
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
